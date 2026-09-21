@@ -8,6 +8,8 @@
     .legend-text { fill: white; font-size: 20px; text-anchor: start; }
     .cite { fill: white; font-size: 17px; font-style: italic; text-anchor: middle; opacity: 0.85; }
   </style>
+
+  <rect x="0" y="0" width="3145" height="1372" fill="black" />
 <circle class="sym" stroke="#c8c8c8" cx="1389.2857142857144" cy="60" r="18" fill="none" />
 <circle cx="1389.2857142857144" cy="60" r="3.96" fill="white" />
 <text class="numlbl" x="1389.2857142857144" y="112">I-1</text>

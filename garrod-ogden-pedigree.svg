@@ -8,6 +8,8 @@
     .legend-text { fill: white; font-size: 18px; text-anchor: start; }
   </style>
 
+  <rect x="0" y="0" width="1500" height="700" fill="black" />
+
   <!-- Generation I: the parents (first cousins) -->
   <rect class="sym" x="680" y="20" width="40" height="40" />
   <circle class="sym" cx="800" cy="40" r="20" />
